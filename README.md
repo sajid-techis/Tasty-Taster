@@ -1,9 +1,9 @@
-# Hunger Captain
+# Tasty-Taster
 ```
-Hunger Captain , with a frontend built in React & Redux and a backend built in Django API.
+Tasty-Taster , with a frontend built in React & Redux and a backend built in Django API.
 ```
-Check out [FRONTEND LIVE DEMO](https://frontend-prince.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://backend-prince.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](#) here!!
+Check out [API LIVE DEMO](#) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
@@ -12,7 +12,7 @@ Check out [API LIVE DEMO](https://backend-prince.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/Akshaytechis/cafemenu-akshay.git
+git clone 
 ```
 2. Backend setting
 ```
